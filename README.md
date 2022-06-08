@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tahabandaw
+- 👋 Hi, I’m tahabandaw
 - 👀 I’m interested in Data analysis,data scientist   
 - 🌱 I’m currently learning Data anaylysis using python 
 - 💞️ I’m looking to work on real projects
