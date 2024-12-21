@@ -1,5 +1,5 @@
 - 👋 Hi, I’m tahabandaw
-- 👀 I’m interested in Data science   
+- 👀 I’m interested in Data Analysis 
 - 💞️ I’m looking to work on real projects
 - 📫 You can reach me through my gmail:taha.bando66@gmail.com
 
