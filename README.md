@@ -4,7 +4,7 @@
 
 **AI Engineer & Full-Stack Developer from Egypt 🇪🇬**
 
-Building production-ready ML systems, computer vision applications, and intelligent backend services at the intersection of deep learning, microservices architecture, and practical AI deployment.
+Building production-ready ML systems, RAG pipelines, and intelligent backend services at the intersection of deep learning, agentic AI, and practical LLM deployment. AI Engineer @ Veem Solutions · Founder of MOKWN & tndrs · 2x Upwork Top Rated
 
 ---
 
@@ -30,6 +30,7 @@ Building production-ready ML systems, computer vision applications, and intellig
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -45,6 +46,7 @@ Building production-ready ML systems, computer vision applications, and intellig
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frontend & Full-Stack**
@@ -54,6 +56,11 @@ Building production-ready ML systems, computer vision applications, and intellig
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Automation & Orchestration**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Data Science**
 
@@ -67,33 +74,39 @@ Building production-ready ML systems, computer vision applications, and intellig
 
 ## 🧠 What I Do
 
-🤖 **Machine Learning & Deep Learning**  
-Building end-to-end ML pipelines from training to deployment using PyTorch, TensorFlow, and scikit-learn. Working on NLP applications, RAG systems, and AI agents.
+🤖 **AI Engineering @ Veem Solutions**  
+Full-time AI Engineer building production RAG pipelines, agentic systems, and LLM-powered backend services.
 
-⚙️ **Backend & Microservices**  
-Developing Python-based backend systems with FastAPI, implementing RAG pipelines, and building AI-powered APIs. Proficient in designing microservices architectures that connect ML models with production environments.
+🚀 **Founder, MOKWN**  
+AI-powered e-commerce platform for electronic components targeting the Egyptian/MENA market — featuring Volt, a RAG shopping assistant with tool-use and cart integration, visual component identification, and Project Finder.
 
-🔍 **Retrieval & Search Systems**  
-Creating embedding-based search systems, semantic similarity matching, and intelligent retrieval pipelines using vector databases for real-world applications.
+📄 **Founder, tndrs**  
+SaaS platform for RFP/tender analysis and proposal generation, built for enterprise clients in the Gulf market — including a vision-first Arabic PDF extraction pipeline and structured proposal generation.
 
 🧑‍🏫 **AI Educator**  
-Teaching university and high school students AI/ML fundamentals, covering everything from PyTorch and TensorFlow to deployment best practices with Docker and cloud platforms.
+Teaching AI engineering fundamentals under a USAID-backed program, covering agentic systems, RAG, and deployment best practices.
 
-🚀 **Full-Stack AI Products**  
-Founded MOKWN, an e-commerce platform with AI-driven features including technical consultation agents, intelligent search, and automation systems.
+💼 **Freelance AI Engineer**  
+2x Upwork Top Rated, delivering RAG, chatbot, and AI automation projects for clients on Upwork and Mstaqel.
+
+🔍 **Retrieval & Agentic Systems**  
+Building embedding-based search, semantic retrieval, and multi-step agent workflows using Qdrant, Cohere, Azure OpenAI, Gemini, and custom orchestration (as well as n8n).
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 Intelligent Search & Retrieval Systems
-Built embedding-based search and retrieval systems with semantic similarity matching for e-commerce and business applications using vector databases and FastAPI backends.
+### 🛒 MOKWN — AI-Powered Electronics E-Commerce
+Solo-built e-commerce platform for the MENA market featuring Volt (a RAG shopping assistant with tool-use/cart integration), visual component identification, and Project Finder.
+
+### 📑 tndrs — RFP & Tender Analysis SaaS
+Proposal generation platform for Gulf-market enterprise clients, with a vision-first PDF extraction pipeline (PyMuPDF + Gemini) built to handle Arabic RFP documents accurately.
 
 ### 🧠 RAG-Powered AI Agents
-Production RAG pipelines using Azure OpenAI, Google Vertex AI, and open-source LLMs with contextual chunking, re-ranking, and semantic search across distributed systems.
+Production RAG pipelines using Azure OpenAI, Google Vertex AI, Gemini, and open-source LLMs with contextual chunking, re-ranking, and semantic search across distributed systems.
 
 ### 🏥 Alzheimer's Disease Classification
-Fine-tuned MobilenetV3 CNN achieving 95% accuracy on medical imaging, complete with training pipeline, data augmentation, and inference optimization.
+Fine-tuned MobileNetV3 CNN achieving 95% accuracy on medical imaging, complete with training pipeline, data augmentation, and inference optimization.
 
 ### 💼 Startup-Investor Matching System
 Intelligent recommendation engine using vector similarity search and RAG-based profile analysis for automated startup-investor pairing.
@@ -121,8 +134,8 @@ Intelligent recommendation engine using vector similarity search and RAG-based p
 
 <div align="center">
 
-💡 *Always exploring cutting-edge ML technologies and applying them to solve real-world problems.*  
-*Open to collaborations on NLP, RAG systems, and production ML systems!*
+💡 *Always exploring cutting-edge AI/agentic technologies and applying them to solve real-world problems.*  
+*Open to collaborations on RAG systems, agentic AI, and production ML!*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
