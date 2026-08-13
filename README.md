@@ -100,7 +100,7 @@ Building embedding-based search, semantic retrieval, and multi-step agent workfl
 Solo-built e-commerce platform for the MENA market featuring Volt (a RAG shopping assistant with tool-use/cart integration), visual component identification, and Project Finder.
 
 ### 📑 tndrs — RFP & Tender Analysis SaaS
-Proposal generation platform for Gulf-market enterprise clients, with a vision-first PDF extraction pipeline (PyMuPDF + Gemini) built to handle Arabic RFP documents accurately.
+Proposal generation platform for Gulf-market enterprise clients
 
 ### 🧠 RAG-Powered AI Agents
 Production RAG pipelines using Azure OpenAI, Google Vertex AI, Gemini, and open-source LLMs with contextual chunking, re-ranking, and semantic search across distributed systems.
@@ -137,6 +137,5 @@ Intelligent recommendation engine using vector similarity search and RAG-based p
 💡 *Always exploring cutting-edge AI/agentic technologies and applying them to solve real-world problems.*  
 *Open to collaborations on RAG systems, agentic AI, and production ML!*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
 </div>
